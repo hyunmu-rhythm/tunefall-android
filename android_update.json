@@ -1,7 +1,11 @@
 {
-  "version": "0.3.0",
+  "version": "0.4.0",
   "apk_version": "0.3.0",
-  "pck": null,
+  "pck": {
+    "url": "https://github.com/hyunmu-rhythm/tunefall-android/releases/download/v0.4.0/TUNEFALL_0.4.0.pck",
+    "size": 3450192,
+    "sha256": "d2c7d36f9af83a11f837b2e232d98ae25d9083f6de8589b4731c349360851b38"
+  },
   "apk": {
     "url": "https://github.com/hyunmu-rhythm/tunefall-android/releases/download/v0.3.0/TUNEFALL.apk",
     "size": 26207662,
