@@ -1,14 +1,14 @@
 {
-  "version": "0.4.2",
+  "version": "0.4.3",
   "apk_version": "0.3.0",
   "pck": {
-    "url": "https://github.com/hyunmu-rhythm/tunefall-android/releases/download/v0.4.2/TUNEFALL_0.4.2.pck",
-    "size": 3460464,
-    "sha256": "00029070180b1b49fb7444d6a7062a2a2b8fb2d95930a98e61944384df963f3c"
+    "url": "https://github.com/hyunmu-rhythm/tunefall-android/releases/download/v0.4.3/TUNEFALL_0.4.3.pck",
+    "size": 3464512,
+    "sha256": "e737755bbb18534fbb8cebaad9ad0e18331fbef3c586c54cf12c9ab3582c4673"
   },
   "apk": {
-    "url": "https://github.com/hyunmu-rhythm/tunefall-android/releases/download/v0.4.2/TUNEFALL.apk",
-    "size": 29397150,
-    "sha256": "aa5f8b4972a1c59b884188064f5cac5ed779cba1abd8b5a2554b04f0413949c1"
+    "url": "https://github.com/hyunmu-rhythm/tunefall-android/releases/download/v0.4.3/TUNEFALL.apk",
+    "size": 29401246,
+    "sha256": "453530fd14fd236e5d3315367fa5386b41ba64a670f1e7c5a5bc5c9f1574cb6d"
   }
 }
